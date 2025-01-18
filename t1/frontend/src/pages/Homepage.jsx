@@ -79,21 +79,21 @@ const tours = [
 const testimonials = [
   {
     id: 1,
-    name: "Sayan Das",
+    name: "Rahul Sharma",
     avatar: "https://via.placeholder.com/150",
-    text: "Best event yet organised",
+    text: "TourPlanner made our trip to India unforgettable!",
   },
   {
     id: 2,
-    name: "Himoprovo",
+    name: "Priya Singh",
     avatar: "https://via.placeholder.com/150",
-    text: "The best way to explore JU's hidden gems.",
+    text: "The best way to explore India's hidden gems.",
   },
   {
     id: 3,
-    name: "Raju Da",
+    name: "Amit Patel",
     avatar: "https://via.placeholder.com/150",
-    text: "I've never had such a porota.",
+    text: "I've never had such a seamless travel experience before.",
   },
 ];
 
@@ -235,7 +235,7 @@ function HomePage() {
               `,
           }}
         >
-          Welcome to mechanical Tech Fest
+          Welcome to mechanical Tech fest
         </Typography>
       </Box>
 
